@@ -1,7 +1,7 @@
 # **BTE-Tools** (Spigot Plugin)
   **[The other BTE-Tools](https://github.com/oganexon/BTE-tools)**
   
-  **This plugin is in work and in no way perfect or official and errors can appear (not often)! Make backups of your world and DON'T USE PRE-RELEASES if you wanna stay safe**
+  **This plugin is in work and in no way perfect or official and errors cannot be ruled out! Make backups of your world and DON'T USE PRE-RELEASES if you wanna stay safe**
 ## Table of Contents
   - [Table of Contents](#table-of-contents)
   - [General Information](#general-information)
