@@ -7,14 +7,6 @@
   - [General Information](#general-information)
   - [Installation](#installation)
   - [Commands](#commands)
-    - [Terraform](#terraform)
-    - [Countarea](#countarea)
-    - [Atmosphere](#atmosphere)
-    - [BTE-Tools](#bte-tools)
-    - [Oak](#oak)
-    - [Car](#car)
-    - [Area](#area)
-    - [Setbiome](#setbiome)
   - [Credits](#credits)
   - [How it works](#how-it-works)
 ## General Information
@@ -34,6 +26,8 @@ If you wan't to see information about this plugin's commands look in our [wiki](
   &#45; Mars_killer616 & Carlito_West
   
   &#45; BTE-Germany-Server
+  
+  &#45; [exsilit (Tree Bundle)](https://www.planetminecraft.com/project/tree-bundle-370-custom-trees-download/)
   
   &#45; [Build The Earth: Normalisation Project](https://bte-n.github.io/)
 ### code:
