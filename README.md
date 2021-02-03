@@ -1,7 +1,7 @@
 # **BTE-Tools** (Spigot Plugin)
   **[The other BTE-Tools](https://github.com/oganexon/BTE-tools)**
   
-  **This plugin is in work and in no way perfect or official and errors cannot be ruled out! Make backups of your world and DON'T USE PRE-RELEASES if you wanna stay safe**
+  **This plugin is in work and in no way perfect or official. Errors cannot be ruled out! Make backups of your world and DON'T USE PRE-RELEASES if you wanna stay safe**
 ## Table of Contents
   - [Table of Contents](#table-of-contents)
   - [General Information](#general-information)
@@ -12,7 +12,7 @@
 ## General Information
   **[GITHUB_WIKI](https://github.com/Stugeb/BTE-Tools-Plugin/wiki)**
   
-  BTE-Tools is a plugin which is for building for [Build The Earth](https://buildtheearth.net/) and is avaible for Spigot 1.12.2 and needs [Worldedit](https://dev.bukkit.org/projects/worldedit) installed. For some commands you need to put a folder with schems in the server directory.
+  BTE-Tools is a plugin which is for building for [Build The Earth](https://buildtheearth.net/) is avaible for Spigot 1.12.2 and needs [Worldedit](https://dev.bukkit.org/projects/worldedit) installed. This plugin contains features /terraform, /roof, /area and elytrafix. For some commands you need to put a folder with schems in the server directory.
   
   [More infos](https://github.com/Stugeb/BTE-Tools-Plugin/wiki/Installation)
 ## Installation
